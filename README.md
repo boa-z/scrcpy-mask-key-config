@@ -1,0 +1,1 @@
+# scrcpy-mask-key-config
